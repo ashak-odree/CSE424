@@ -7,7 +7,7 @@
 ## Title of paper:
 Development of a Genetic Algorithm Based Geodesic Active Contour for Iris Based Ethnicity Prediction System   
 
-# Main paper link: 
+## Main paper link: 
 <a href="http://eprint.subtopublish.com/id/eprint/3030/"> Click me</a>
 
 ## Slide link: 
