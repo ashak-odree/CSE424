@@ -15,7 +15,7 @@ Development of a Genetic Algorithm Based Geodesic Active Contour for Iris Based 
 
 ## YouTube video: 
 
-<a href="https://www.youtube.com/watch?v=5TIQC00RS6k">Click me</a>
+<a href="https://youtu.be/5TIQC00RS6k">Click me</a>
 
 
 
