@@ -12,7 +12,7 @@
 ## Title of paper:
 Identification of Iris Flower Varieties Through Machine Learning Techniques
 
-## overleaf read link: 
+## Overleaf read link: 
 <a href="https://www.overleaf.com/project/656c8cf465b548e4e238c3fd"> Click me</a>
 
 ## Slide link: 
