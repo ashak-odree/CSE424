@@ -20,4 +20,4 @@ Identification of Iris Flower Varieties Through Machine Learning Techniques
 
 ## YouTube video: 
 
-<a href="https://www.youtube.com/watch?v=y5jTpnZ_1Rw&list=PLAAD7xoRR0v5rpWVbFocpmTCr0xGDRQq9&index=3&ab_channel=FAIRUZTASSNIMPRAPTY">Click me</a>
+<a href="https://youtu.be/TP0p6JED0iQ">Click me</a>
