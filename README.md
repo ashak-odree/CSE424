@@ -1,1 +1,1 @@
-# CSE424-Pattern-Recognition-
+# CSE424-Pattern-Recognition
